@@ -1,6 +1,5 @@
 # Snake-Game
 Famoso jogo da cobrinha!
-<h1>Snake Game</h1>
 <h2>tecnologias utilizadas</h2>
 <ul>
     <li>Html</li>
